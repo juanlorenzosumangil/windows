@@ -3,4 +3,8 @@ def main(msg):
 
     print(msg)
 
+def second(x):
+    print(x)
+
 main("hello")
+second("world")
