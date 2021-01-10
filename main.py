@@ -1,6 +1,5 @@
 def main(msg):
-    #add from pythonProject
-    #add new comment 2
+    #no longer main
 
     print(msg)
 
